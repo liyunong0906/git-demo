@@ -1,5 +1,6 @@
 hello git! yy to copy, p to paste
 hello git! yy to copy, p to paste
+this line is being inserted here
 hello git! yy to copy, p to paste
 hello git! yy to copy, p to paste
 hello git! yy to copy, p to paste
