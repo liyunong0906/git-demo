@@ -5,3 +5,4 @@ hello git! yy to copy, p to paste
 this line is for test
 this line has been alterd
 this line is for test if merge conflict. and now a master note
+this line is directly altered from github
